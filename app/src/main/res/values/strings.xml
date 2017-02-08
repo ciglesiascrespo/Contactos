@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_mail">Email</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="str_txt_fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="str_btn_siguiente">Siguiente</string>
+    <string name="str_txt_confirmar_datos">Confirmar Datos</string>
+    <string name="str_txt_telefono">Telefono:</string>
+    <string name="str_txt_mail">Email:</string>
+    <string name="str_txt_descripcion">Descripción:</string>
+    <string name="str_btn_editar">Editar datos</string>
+    <string name="str_snack_guardado">Datos guardados con éxito</string>
+    <string name="str_snack_cargado">Datos cargados con éxito</string>
+    <string name="key_nombre">nombre</string>
+    <string name="key_telefono">telefono</string>
+    <string name="key_fecha">fecha</string>
+    <string name="key_correo">correo</string>
+    <string name="key_descripcion">descripcion</string>
+</resources>
+
